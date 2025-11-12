@@ -1,3 +1,5 @@
+<br clear="both">
+
 <div align="center">
   <img height="150" src="https://media.licdn.com/dms/image/v2/D5616AQFkASAjt9Y3gQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1716004212333?e=2147483647&v=beta&t=TMcJdcYgCyAGf4Y0i52tcEK4Egc-B7mscWmkYx_9KV8"  />
 </div>
